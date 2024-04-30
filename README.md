@@ -1,9 +1,9 @@
 # MachineLearning
 
 1. Missing value analysis
-2. ormalization
-3. Outlier analysis - Box plot
-4. Encoding
+2. Normalization
+3. Encoding
+4. Outlier analysis - Box plot
 5. Linearity analysis
 6. Class imbalance Analysis with smote
 7. 2 basic model implementation
