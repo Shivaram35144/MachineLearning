@@ -1,5 +1,10 @@
 # MachineLearning
 
+For regression - no smote| encoding is done only if strings are there
+For clustering - No linearity analysis | smote
+For Classification - no linearity analysis
+
+
 1. Missing value analysis
 2. Normalization
 3. Encoding
