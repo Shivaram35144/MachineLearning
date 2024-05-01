@@ -1,7 +1,9 @@
 # MachineLearning
 
 For regression - no smote| encoding is done only if strings are there
+
 For clustering - No linearity analysis | smote
+
 For Classification - no linearity analysis
 
 
