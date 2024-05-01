@@ -31,3 +31,6 @@ For regression
 For Clustering
   - SSE (sum of errors)
   - Elbow method/ silhoutte method
+
+
+https://colab.research.google.com/drive/1xjwFBAAj2owGtTv8uhBE1vKNUklNrkI-?usp=sharing
